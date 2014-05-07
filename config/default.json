@@ -1,0 +1,10 @@
+{
+  "me": {
+    "host": "127.0.0.1",
+    "port": 7666
+  },
+  "storeBase": "./store/",
+  "objLifeTime": 60000,
+  "maxPayload": 10485760,
+  "servers": []
+}

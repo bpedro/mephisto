@@ -1,0 +1,38 @@
+{
+  "name": "mephisto",
+  "version": "0.0.1",
+  "description": "Mephisto is a distributed ephemeral storage server.",
+  "keywords": [
+    "ephemeral",
+    "storage",
+    "server",
+    "file",
+    "http"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "~2.4.0",
+    "request": "~2.34.0",
+    "node-uuid": "~1.4.1",
+    "hashring": "~1.0.3",
+    "config": "~0.4.35"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bpedro/mephisto.git"
+  },
+  "author": {
+    "name": "Bruno Pedro",
+    "email": "bpedro@brunopedro.com",
+    "url": "http://brunopedro.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bpedro/mephisto/issues"
+  },
+  "homepage": "https://github.com/bpedro/mephisto"
+}
