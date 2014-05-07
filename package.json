@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apiux/mephisto.git"
+    "url": "https://github.com/bpedro/mephisto.git"
   },
   "author": {
     "name": "Bruno Pedro",
@@ -32,7 +32,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/apiux/mephisto/issues"
+    "url": "https://github.com/bpedro/mephisto/issues"
   },
-  "homepage": "https://github.com/apiux/mephisto"
+  "homepage": "https://github.com/bpedro/mephisto"
 }
