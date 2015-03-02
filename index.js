@@ -1,7 +1,8 @@
 var Hapi = require('hapi')
   , HashRing = require('hashring')
   , config = require('config')
-  , mephisto = require('./lib/mephisto');
+  , mephisto = require('./lib/mephisto')
+  , uuid = require('node-uuid');
  
 var ring = new HashRing(config.servers);
 mephisto.init(config, ring);
